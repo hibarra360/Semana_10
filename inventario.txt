@@ -1,1 +1,5 @@
-pan,2,12.0
+pan un 0,15
+arroz lb 0,50
+coca cola 2lt 1,10
+aceite lt 3,00
+cloro lt 1.00
